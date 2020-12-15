@@ -74,5 +74,5 @@ $ python3 FinProj.py
 
 * Nigel, my roommate's dog, was a great company and comfort for me while I was designing this program :dog: :dog: Isn't he cute?!
 
-![](image/nigel.png)
+![](https://github.com/zhuoqunw/SI507-Final-Project/blob/main/image/nigel.png)
 
