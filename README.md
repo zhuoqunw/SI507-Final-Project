@@ -68,11 +68,12 @@ $ python3 FinProj.py
 
 ## Acknowledgments
 
-* Professor Bobby Madamanchi and the instruction team of SI 507 in fall 2020, whose code examples helped form the basis of the this project, especially the web scrping part
+* Professor Bobby Madamanchi and the instruction team of SI 507 in fall 2020, whose code examples helped form the basis of this project, especially the web scrping part
 
 ## To my special little friend
 
 * Nigel, my roommate's dog, was a great company and comfort for me while I was designing this program. Isn't he a cutie?!:dog: :dog:
 
-![](https://github.com/zhuoqunw/SI507-Final-Project/blob/main/image/nigel.png)
+<img width="551" alt="Screen Shot 2020-12-15 at 1 14 16 PM" src="https://user-images.githubusercontent.com/56980385/102255039-7bbff300-3ed7-11eb-9609-63f5357bc9b3.png">
+
 
