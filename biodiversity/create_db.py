@@ -17,12 +17,12 @@ drop_parks = '''
 
 create_parks = '''
     CREATE TABLE IF NOT EXISTS "parks" (
-        "Park Code" TEXT NOT NULL, 
-        "Park Name" TEXT PRIMARY KEY, 
+        "Park Code" TEXT PRIMARY KEY, 
+        "Park Name" TEXT NOT NULL, 
         "State" TEXT NOT NULL, 
-        "Acres" INTEGER NOT NULL, 
-        "Latitude" INTEGER NOT NULL, 
-        "Longitude" INTEGER NOT NULL
+        "Acres" REAL NOT NULL, 
+        "Latitude" REAL NOT NULL, 
+        "Longitude" REAL NOT NULL
         );
 '''
 
