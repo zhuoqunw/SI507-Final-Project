@@ -62,6 +62,9 @@ $ python3 FinProj.py
     * Plotly - visualize data
 * [SQLite3](https://www.sqlite.org/docs.html) - The database backing the project
 
+## Demo link
+[Demo link](https://umich-my.sharepoint.com/personal/zhuoqunw_umich_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fzhuoqunw%5Fumich%5Fedu%2FDocuments%2FSI507%20final%20project%2Ffinproj%5Fdemo%2Emov&parent=%2Fpersonal%2Fzhuoqunw%5Fumich%5Fedu%2FDocuments%2FSI507%20final%20project)
+
 ## Authors
 
 * **Lea Wei** - *Initial work* - [zhuoqunw](https://github.com/zhuoqunw)
