@@ -72,7 +72,7 @@ $ python3 FinProj.py
 
 ## To my special little friend
 
-* Nigel, my roommate's dog, was a great company and comfort for me while I was designing this program :dog: :dog: Isn't he cute?!
+* Nigel, my roommate's dog, was a great company and comfort for me while I was designing this program. Isn't he a cutie?!:dog: :dog:
 
 ![](https://github.com/zhuoqunw/SI507-Final-Project/blob/main/image/nigel.png)
 
