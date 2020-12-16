@@ -68,7 +68,7 @@ $ python3 FinProj.py
 
 ## Acknowledgments
 
-* Professor Bobby Madamanchi and the instruction team of SI 507 in fall 2020, whose code examples helped form the basis of this project, especially the web scrping part
+* Professor Bobby Madamanchi and the instruction team of SI 507 in fall 2020, whose code examples helped form the basis of this project, especially the web scraping part
 
 ## To my special little friend
 
