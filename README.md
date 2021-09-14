@@ -1,6 +1,8 @@
 # SI507 Final Project: National Park & Biodiversity
 
-This program is a SI 507 final project designed to facilitate trip to national sites. After implementing the interactive command line tool, the users can enter a state of interest and obtain useful information about the national sites in that state, including site name, site category (national site, national historical site etc.), phone, email, to name a few. Users can also obtain some charts showing the biodiversity information of that national site. 
+This program is a SI 507 final project designed to facilitate trip to national sites. After implementing the interactive command line tool, the users can enter a state of interest and obtain useful information about the national sites in that state, including site name, site category (national site, national historical site etc.), phone, email, to name a few. Users can also obtain some visualizations showing the biodiversity information of that national site. 
+
+**Main Tools: Python, SQLite** 
 
 ## Data sources
 
